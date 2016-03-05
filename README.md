@@ -24,4 +24,4 @@ There was sample HTML file content provided, so I created an index.html for it a
 11. Make the buttons stop appearing next to each other as inline elements. Change them into block elements.
 
 ### Contributors
-- [Janelle Zorvan](https://github.com/JZorvan)# Guinea-Pig
+- [Janelle Zorvan](https://github.com/JZorvan)
