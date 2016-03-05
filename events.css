@@ -1,0 +1,37 @@
+/* I created this class to make the Guinea Pig text turn blue when the button "Add Color" is clicked */
+.blue {
+  color: blue;
+}
+
+/* I created this class to make the Guinea Pig text get larger when the button "Hulkify" is clicked */
+.bigger {
+  font-size: 2.5em;
+}
+
+/* I created this class to make the Guinea Pig text have a border when the button "Capture It" is clicked */
+.capture {
+  border: 2px dotted teal;
+  display: block;
+  padding: 1em;
+}
+
+/* I created this class to make the Guinea Pig border become rounded when the button "Rounded" is clicked */
+.round {
+  border-radius: 50%;
+}
+
+/* The first section's text should be bold. */
+section:first-child {
+  font-weight: bold;
+  }
+
+/* The last section's text should be bold and italicized. */
+section:last-child {
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Makes the buttons become block elements. */
+button {
+  display: block;
+}
